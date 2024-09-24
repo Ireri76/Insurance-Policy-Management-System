@@ -1,0 +1,11 @@
+policy_id,name,age,gender,product_name,product_amount ,monthly_premium 
+PH001,Musyoka  James,35,Male,Education Insurance,250000,5000
+PH002,Achieng  Doreen,60,Female,Life Insurance,1000000,10000
+PH003,Muriuki  Mugambi,55,Male,Health Insurance,500000,7000
+PH004,Omondi  Antony,47,Male,Motor Vehicle Insurance,270000,3500
+PH005,John  Olelenku,63,Male,Motor Vehicle Insurance,331000,4129
+PH006,Said Ali  Mohamed,39,Male,Travel Insurance,100000,2789
+PH007,Amina  Kanze,40,Female,Travel Insurance,150000,3294
+PH008,Kimani  Chotara,36,Male,Agricultural Insurance,629000,8500
+PH009,Mary  Muthoni,52,Female,Pension and Retirement Insurance,2000000,16000
+PH010,Mary  Anyango,51,Female,Pension and Retirement Insurance,3000000,21000
